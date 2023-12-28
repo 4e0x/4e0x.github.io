@@ -1,8 +1,8 @@
 # ReadMe
 
-###### Proxmos Deployment
 ```
-D-ID: A879274C
-Host: proxmos.0x4e.corp
-Endpoint: /git/push:blog.0x4e.corp
+D-ID: C8D5A
+Host: gogs.0x4e.corp
+Repository: blog.0x4e.corp
+Branch: gogs-stage
 ```
